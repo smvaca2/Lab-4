@@ -69,15 +69,15 @@ el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
 
-![](https://github.com/smvaca2/Lab-4/blob/b5d97faf66718199060ad6ff2e7007f1ee9ac7a0/WhatsApp%20Image%202022-06-29%20at%202.10.46%20PM.jpeg)
-
-![](https://github.com/smvaca2/Lab-4/blob/b5d97faf66718199060ad6ff2e7007f1ee9ac7a0/WhatsApp%20Image%202022-06-29%20at%204.12.13%20PM.jpeg)
+![](https://github.com/smvaca2/Lab-4/blob/b5d97faf66718199060ad6ff2e7007f1ee9ac7a0/WhatsApp%20Image%202022-06-29%20at%204.21.30%20PM.jpeg)
 
 **4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
 
-![](https://github.com/smvaca2/Lab-4/blob/b5d97faf66718199060ad6ff2e7007f1ee9ac7a0/WhatsApp%20Image%202022-06-29%20at%204.21.30%20PM.jpeg)
+![](https://github.com/smvaca2/Lab-4/blob/b5d97faf66718199060ad6ff2e7007f1ee9ac7a0/WhatsApp%20Image%202022-06-29%20at%202.10.46%20PM.jpeg)
+
+![](https://github.com/smvaca2/Lab-4/blob/b5d97faf66718199060ad6ff2e7007f1ee9ac7a0/WhatsApp%20Image%202022-06-29%20at%204.12.13%20PM.jpeg)
 
 **Tabla4.1 Medición de voltaje aplicando superposición**
 
