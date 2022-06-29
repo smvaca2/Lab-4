@@ -57,7 +57,7 @@ las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 
 **4.5.1. Implemente el circuito que se presenta en la figura 3.1.**
 
-![]()
+![](https://github.com/smvaca2/Lab-4/blob/3d29164d646ebc2c4b97ebcf901911c44e60a5d3/circuito.PNG)
 
 **4.5.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
 tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
