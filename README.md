@@ -10,13 +10,11 @@ _Martin Vaca
 
 _Demostrar el teorema de la superposición 
 
-_Analizar los tipos de nodos existentes en un circuito y su importancia a la hora del calculo de voltajes y corrientes.
-
-_Distinguir las distintas polaridades y direcciones de corriente presentes en un circuito.
+_Analizar los distintos resultados que se obtienen con cada una de las fuentes de voltaje.
 
 ***2.-MARCO TEÓRICO***
 
-![]()
+![](https://github.com/smvaca2/Lab-4/blob/37fb70bf43e52d8522058e4cf2353aa6ac8e04a6/teoria.PNG)
 
 ***3.-EXPLICACIÓN DEL PROCEDIMIENTO***
 
@@ -26,7 +24,7 @@ _Distinguir las distintas polaridades y direcciones de corriente presentes en un
 
 ***4.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR***
 
-**==========================ANÁLISIS DE NODOS==========================**
+**==========================Teorema de la superposición==========================**
 
 **4.1. OBJETIVO DE LA PRÁCTICA**
 
@@ -100,7 +98,7 @@ conclusiones.**
 
 ***6.-CONCLUSIONES***
 
-Con la realización de este informe se obtuvieron resultados que se pueden poner en análisis, puesto que los resultados en simulación fueron en cierto porcentaje diferentes a los experimentales, pero similares a los analíticos. Para el cálculo analítico de este circuito fue necesario saber reconocer el nodo de referencia y sus nodos principales, puesto que a partir de esto y de la ley de corrientes de Kirchhoff se planteó la resolución del problema.
+Con la realización de esta práctica se pudo tener presente los resultados que se obtienen tanto al hacer 0 v1 como al hacer 0 v2, con cada una de estas se puede observar que quedan circuitos abiertos y cerrados. Al tener ya los valores analíticos, prácticos y simulados se puede concluir de que este teorema si se cumple de manera evidente. Para poder trabajar con eficacia aplicando este teorema es importante reconocer las polariades y resistencias.
 
 ***7.-BIBLIOGRAFÍA***
 
