@@ -18,9 +18,12 @@ _Analizar los distintos resultados que se obtienen con cada una de las fuentes d
 
 ***3.-EXPLICACIÓN DEL PROCEDIMIENTO***
 
-![]()
+![](https://github.com/smvaca2/Lab-4/blob/f1a33c6930057c56022c43d13ad05b727cf6326b/WhatsApp%20Image%202022-06-29%20at%207.18.51%20PM.jpeg)
 
-![]()
+![](https://github.com/smvaca2/Lab-4/blob/f1a33c6930057c56022c43d13ad05b727cf6326b/WhatsApp%20Image%202022-06-29%20at%207.19.10%20PM.jpeg)
+
+![](https://github.com/smvaca2/Lab-4/blob/f1a33c6930057c56022c43d13ad05b727cf6326b/WhatsApp%20Image%202022-06-29%20at%207.19.25%20PM.jpeg)
+
 
 ***4.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR***
 
@@ -82,21 +85,24 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 ![](https://github.com/smvaca2/Lab-4/blob/b5d97faf66718199060ad6ff2e7007f1ee9ac7a0/WhatsApp%20Image%202022-06-29%20at%204.12.13%20PM.jpeg)
 
 ![](https://github.com/smvaca2/Lab-4/blob/cfa797be5b000bc1246ccad93aa7f8f10b13b603/WhatsApp%20Image%202022-06-29%20at%205.40.16%20PM.jpeg)
+
 **Tabla4.1 Medición de voltaje aplicando superposición**
 
-![]()
+![](https://github.com/smvaca2/Lab-4/blob/f1a33c6930057c56022c43d13ad05b727cf6326b/WhatsApp%20Image%202022-06-29%20at%207.16.46%20PM.jpeg)
 
 **Tabla4.2 Medición de corriente aplicando superposición**
 
-![]()
+![](https://github.com/smvaca2/Lab-4/blob/f1a33c6930057c56022c43d13ad05b727cf6326b/WhatsApp%20Image%202022-06-29%20at%207.16.55%20PM.jpeg)
 
 *Calcular errores de las mediciones y comentar los resultados.*
+
+![]()
 
 **4.5.5. Verifique el cumplimiento del Teorema de Superposición y compare los
 resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
 conclusiones.**
 
-![]()
+![](https://github.com/smvaca2/Lab-4/blob/f1a33c6930057c56022c43d13ad05b727cf6326b/WhatsApp%20Image%202022-06-29%20at%207.17.06%20PM.jpeg)
 
 ***5.-VIDEO***
 
