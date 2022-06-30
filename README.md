@@ -96,7 +96,7 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 *Calcular errores de las mediciones y comentar los resultados.*
 
-![]()
+![](https://github.com/smvaca2/Lab-4/blob/987faea980f1dfb03639c3135c2934df665246af/WhatsApp%20Image%202022-06-29%20at%207.42.11%20PM.jpeg)
 
 **4.5.5. Verifique el cumplimiento del Teorema de Superposición y compare los
 resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
