@@ -116,7 +116,7 @@ Con la realización de esta práctica se pudo tener presente los resultados que 
 
 _Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson**
 
-![](https://github.com/smvaca2/Informe-lab3/blob/d1e03fe7f0ccf77521fe14e3850e7a0f6aac7525/WhatsApp%20Image%202022-06-09%20at%207.57.24%20AM.jpeg)
+
 
 
 
